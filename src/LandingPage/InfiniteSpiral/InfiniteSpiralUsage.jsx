@@ -2,7 +2,7 @@ import InfiniteSpiral from "../InfiniteSpiral/InfiniteSpiral"
 
 function InfiniteSpiralUsage() {
   return (
-    <section className="min-h-screen bg-black px-6 py-24 text-white">
+    <section className="min-h-screen px-6 py-24 text-white">
         <div className="mx-auto max-w-6xl">
           <p className="text-sm font-semibold tracking-[0.3em] text-fuchsia-400">
             BUILT FOR PRACTICE
